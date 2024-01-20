@@ -1,5 +1,5 @@
 {
-    "name": "janeto29/ecommerce",
+    "name": "janeto29/loja",
     "authors": [
         {
             "name": "Jose Lustosa",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\janeto29\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
